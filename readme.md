@@ -10,7 +10,7 @@
 ### About me
 * 💻 **Software Developer**
 * 💻 specialty in **backend development**
-* main languages Golang, postgresQl ,Python && Node.js(Express.js). 
+* main languages Golang, postgresql ,Python && Node.js(Express.js). 
 
  
 <div align="left">
