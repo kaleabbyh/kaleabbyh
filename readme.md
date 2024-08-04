@@ -51,11 +51,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width = "30" height = "30" /> &nbsp;
   
 </div>
-<hr>
-  
-### :fire: My Stats :
-<div>
-  <a href="https://github.com/kaleabbyh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleabbyh&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true&custom_title=Total%20GitHub%20Contributions" />
-  </a>
-</div>
+
