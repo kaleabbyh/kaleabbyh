@@ -56,6 +56,6 @@
 ### :fire: My Stats :
 <div>
   <a href="https://github.com/kaleabbyh">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleabbyh&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaleabbyh&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true&custom_title=Total%20GitHub%20Contributions" />
   </a>
 </div>
