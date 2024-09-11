@@ -14,19 +14,17 @@
 
  
 <div align="left">
-<h4>LinkedIn <a href="https://www.linkedin.com/in/kaleab-bayih" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Kaleab Bayih" height="30" width="30" /></a>
-</h4>
+<h5>LinkedIn <a href="https://www.linkedin.com/in/kaleab-bayih" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Kaleab Bayih" height="20" width="20" /></a>
+</h5>
 
-
-  <h4>Leetcode 
-    <a href="https://leetcode.com/kaleabbyh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="Leetcode" title="Leetcode" height="30" width="30" align="center" /></a>
-  </h4>
-
+  <h5>Leetcode 
+    <a href="https://leetcode.com/kaleabbyh/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="Leetcode" title="Leetcode" height="20" width="20" align="center" /></a>
+  </h5>
 
 </div>
 <hr>  
   
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div style="background-color: blue;">
  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" title="GO" **alt="GO" width = "40" height = "40" /> &nbsp;
