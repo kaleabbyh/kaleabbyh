@@ -51,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" **alt="SQLite" width = "30" height = "30" /> &nbsp;
   
 </div>
+<hr>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaleabbyh&theme=dark&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabbyh&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/kaleabbyh)
