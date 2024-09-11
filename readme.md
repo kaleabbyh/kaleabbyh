@@ -1,8 +1,8 @@
 <hr>  
 <div align="center"  >
-        <h2>I am <a target="_blank" href="https://kaleab-bayih.vercel.app">Kaleab Bayih</a></h2> 
+        <h3>I am <a target="_blank" href="https://kaleab-bayih.vercel.app">Kaleab Bayih</a></h3> 
          <h3>Software Developer</h3>
-         <br>
+       
 </div>
 
 <hr>  
