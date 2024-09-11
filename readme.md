@@ -52,3 +52,9 @@
   
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaleabbyh&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabbyh&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6962AD&height=60&section=footer"/>
