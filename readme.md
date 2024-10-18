@@ -49,7 +49,6 @@
 <hr>  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaleabbyh&theme=dark&hide_border=true)](https://github.com/kaleabbyh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabbyh&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/kaleabbyh)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikireab-m&theme=dark&hide_border=true&show_icons=true) -->
 
